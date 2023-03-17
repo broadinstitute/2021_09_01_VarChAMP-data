@@ -1,0 +1,4 @@
+[core]
+    remote = s3storage
+['remote "s3storage"']
+    url = s3://imaging-platform-ssf/projects/2021_09_01_VarChAMP_Vidal_Taipale/workspace/software/2021_09_01_VarChAMP_Vidal_Taipale_DVC
