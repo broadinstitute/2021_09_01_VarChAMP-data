@@ -63,7 +63,7 @@ quality_control:
     row: Metadata_Row
     column: Metadata_Col
   heatmap:
-    perform : true
+    perform : false
 options:
   compression: gzip
   float_format: "%.5g"

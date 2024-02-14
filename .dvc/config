@@ -2,3 +2,5 @@
     remote = s3storage
 ['remote "s3storage"']
     url = s3://cellpainting-gallery/cpg0020-varchamp/broad/workspace/software/2021_09_01_VarChAMP_Vidal_Taipale_DVC/
+    profile = jump-cp-role
+    acl = bucket-owner-full-control
