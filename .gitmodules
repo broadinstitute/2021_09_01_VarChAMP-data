@@ -1,6 +1,3 @@
 [submodule "profiling-recipe"]
 	path = profiling-recipe
 	url = https://github.com/rsenft1/profiling-recipe.git
-[submodule "profiling-recipe_EM"]
-	path = profiling-recipe_EM
-	url = https://github.com/emiglietta/profiling-recipe.git
