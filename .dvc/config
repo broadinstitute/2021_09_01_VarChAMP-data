@@ -1,4 +1,6 @@
 [core]
     remote = s3storage
 ['remote "s3storage"']
-    url = s3://imaging-platform-ssf/projects/2021_09_21_VarChAMP/workspace/software/2021_09_01_VarChAMP-data_DVC
+    url = s3://cellpainting-gallery/cpg0020-varchamp/broad/workspace/software/2021_09_01_VarChAMP-data_DVC
+    profile = cpg-access
+    acl = bucket-owner-full-control
